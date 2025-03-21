@@ -1,74 +1,41 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Nombre Completo: Valentina Pino Jimenez
+**Profesión:** Gestión de mercados.
+Estudiante de Gestión de Mercados, con una profunda pasión por el Visual Merchandising y la creación de experiencias de marca memorables. Mi enfoque se centra en fusionar el análisis estratégico con la creatividad, transformando espacios comerciales en narrativas visuales que no solo atraen, sino que también conectan emocionalmente con el consumidor. Poseo una sólida base en principios de mercadeo, complementada con habilidades en investigación de mercado, análisis de tendencias y planificación estratégica.
+
+Me caracterizo por mi proactividad, capacidad de liderazgo y una notable habilidad para adaptarme a entornos dinámicos y cambiantes. Soy una persona orientada a resultados, con un fuerte compromiso con el trabajo en equipo y la excelencia. Mi objetivo es aplicar mis conocimientos y energía para contribuir significativamente al éxito de la marca, desarrollando y ejecutando estrategias de Visual Merchandising innovadoras y efectivas que impulsen el reconocimiento de la marca y aumenten las ventas.
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [pinojimenezvalentina@gmail.com].(pinojimenezvalentina@gmail.com).
+- **LinkedIn:** [linkedin.com/in/valentina-pino-undefined-19328a315].(https://www.linkedin.com/in/valentina-pino-undefined-19328a315?trk=contact-info).
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
+## 🏢 **Experiencia Laboral**
+### **METIS GROUP** _(2025-Actualidad)_
+- Investigación de mercados.
+- 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2023-2025)_
+- Gestión de mercados.
+  
+### **SENA** _(2024)_
+- Derechos fundamentales del trabajo.
 
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+### **BENGLISH** _(2023-2024)_
+- B1.
 
----
+- ### **CET** _(2024)_
+- EXCEL intermedio.
 
-## 🎨 Formatos y Fuentes Disponibles
+- ### **Liceo los angeles** _(2022)_
+- Bachillerato.
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
-
+## 💡 Habilidades blandas
+- Buena gestión del tiempo.
+- Aprendizaje rápido.
+- Proactiva.
+  
+- ## 💡 Habilidades duras
+- Illustrator.
+- Canva.
+- Capcut.
